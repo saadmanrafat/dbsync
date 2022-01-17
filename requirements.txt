@@ -1,10 +1,31 @@
 asgiref @ file:///home/saadman/.cache/pypoetry/artifacts/66/e6/9d/1120805fa1cbf481e628bb06bdda3cc7a6623fce6ed7ceccf057e53faf/asgiref-3.4.1-py3-none-any.whl
+certifi==2021.10.8
+charset-normalizer==2.0.10
 click @ file:///home/saadman/.cache/pypoetry/artifacts/fa/59/1c/2eaf2b8f82cecf1e8d2d6dba67bd01214cf590d308bd9c917aa19c3eda/click-8.0.3-py3-none-any.whl
+coreapi==2.3.3
+coreschema==0.0.4
 Django @ file:///home/saadman/.cache/pypoetry/artifacts/5b/7b/ac/2204028b592c56dcc2f5cf360af2dad7aad4ec9e7d5228264b6db89bbc/Django-4.0.1-py3-none-any.whl
 djangorestframework @ file:///home/saadman/.cache/pypoetry/artifacts/7a/1a/9f/2d5a19ae6bfb95d667e8b4f5046c140bfa7cabbbf75bf9a179d1776aa1/djangorestframework-3.13.1-py3-none-any.whl
+drf-yasg==1.20.0
+gunicorn==20.1.0
 h11 @ file:///home/saadman/.cache/pypoetry/artifacts/9a/ce/16/adb43d44234e45608e12ef4254873fa6a1749ab0d28c5933fb1acbc4a3/h11-0.12.0-py3-none-any.whl
+httptools==0.3.0
+idna==3.3
+inflection==0.5.1
+itypes==1.2.0
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+packaging==21.3
 psycopg2 @ file:///home/saadman/.cache/pypoetry/artifacts/53/f4/10/6c4fbf8671cd3e90cb0e036883b7aa9e49359e40fa11a699ffb31b2f2e/psycopg2-2.9.3.tar.gz
 psycopg2-binary @ file:///home/saadman/.cache/pypoetry/artifacts/a6/25/b7/4f1a80a76aa49d103fb5309d65548527163d0e1848c6fb216d3602579c/psycopg2_binary-2.9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pyparsing==3.0.6
 pytz @ file:///home/saadman/.cache/pypoetry/artifacts/a0/f8/66/b50e6d372fa21e4d6db4b2fe5c5e94aaf59b82d02a7b3215fbc4fae889/pytz-2021.3-py2.py3-none-any.whl
+requests==2.27.1
+ruamel.yaml==0.17.20
+ruamel.yaml.clib==0.2.6
 sqlparse @ file:///home/saadman/.cache/pypoetry/artifacts/10/f5/22/c9c991a71e27c4d8f69907d92cce74a369cbb3183dc4a6d27e2ae4ab0b/sqlparse-0.4.2-py3-none-any.whl
+uritemplate==4.1.1
+urllib3==1.26.8
 uvicorn @ file:///home/saadman/.cache/pypoetry/artifacts/31/42/53/a7bcd5235ca3d3ac27a5503fb81acd1a6c76f8b47079d549caf1b5095d/uvicorn-0.17.0-py3-none-any.whl
+uvloop==0.16.0
+django==4.0.1
